@@ -26,6 +26,7 @@ gem 'jquery-rails'
 gem "twitter-bootstrap-rails"
 gem 'simple_form'
 gem 'carrierwave'
+gem "fog", "~> 1.3.1"
 
 #gem 'therubyracer'
 #gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
