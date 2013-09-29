@@ -29,7 +29,7 @@ gem 'carrierwave'
 gem "fog", "~> 1.3.1"
 gem 'devise'
 gem 'newrelic_rpm'
-gem "letsrate", "~> 1.0.8"
+gem "letsrate"
 
 
 #gem 'therubyracer'
