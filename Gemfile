@@ -29,7 +29,7 @@ gem 'carrierwave'
 gem "fog", "~> 1.3.1"
 gem 'devise'
 gem 'newrelic_rpm'
-
+gem 'acts_as_votable', '~> 0.7.1'
 
 
 #gem 'therubyracer'
