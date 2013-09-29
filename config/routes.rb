@@ -1,4 +1,6 @@
 Firehose5::Application.routes.draw do
+  match '/rate' => 'rater#create', :as => 'rate'
+
   devise_for :users
 
   # The priority is based upon order of creation:

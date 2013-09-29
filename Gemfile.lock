@@ -144,7 +144,7 @@ DEPENDENCIES
   fog (~> 1.3.1)
   jquery-rails
   json
-  letsrate (~> 1.0.8)
+  letsrate
   newrelic_rpm
   pg
   rails (= 3.2.14)
